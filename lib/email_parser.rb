@@ -4,4 +4,6 @@
 # or whitespace (' ').
 class EmailParser
   attr_accessor :emails
+  
+  def enau
 end
