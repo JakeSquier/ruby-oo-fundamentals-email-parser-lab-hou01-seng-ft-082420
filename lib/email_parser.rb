@@ -5,5 +5,7 @@
 class EmailParser
   attr_accessor :emails
   
-  def enau
+  def initialize(email)
+    
+  end 
 end
